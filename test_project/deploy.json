@@ -1,0 +1,8 @@
+{
+  "REPO_URL": "https://github.com/GWL22/CD_test",
+  "PROJECT_NAME": "CD_test",
+  "REMOTE_HOST_SSH": "34.217.94.192",
+  "REMOTE_HOST": "34.217.94.192",
+  "REMOTE_USER": "ec2-user",
+  "REMOTE_PASSWORD": ""
+}
